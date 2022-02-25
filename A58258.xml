@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered in justification of an order granted to Major George Wither, by the honourable House of Commons, the ninth of Febr. 1640 for repairs of his damages sustained by the Kings forces at the beginning of this war ... : whereunto are annexed also, reasons against the passing of an ordinance for one Edward Andrews, a delinquent ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58258</idno>
+            <idno type="STC">Wing R544A</idno>
+            <idno type="STC">ESTC R36700</idno>
+            <idno type="EEBO-CITATION">15987358</idno>
+            <idno type="OCLC">ocm 15987358</idno>
+            <idno type="VID">104680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104680)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered in justification of an order granted to Major George Wither, by the honourable House of Commons, the ninth of Febr. 1640 for repairs of his damages sustained by the Kings forces at the beginning of this war ... : whereunto are annexed also, reasons against the passing of an ordinance for one Edward Andrews, a delinquent ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1643?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: print show-through with considerable loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wither, George, 1588-1667.</term>
+               <term>Confiscations.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:104680:1" rendition="simple:additions"/>
+            <head>Reaſons humbly offered in juſtification of an Order granted to Major <hi>George Wither,</hi> by the Honourable Houſe of Commons, the ninth of Febr. <hi>1642.</hi> for repaire of his damages ſu<g ref="char:EOLhyphen"/>ſtained (by the Kings Forces) at the beginning of this War, out of the goods and eſtates of his Plunderers, or any others in Armes againſt the Parliament: Whereunto are annexed alſo, reaſons againſt the paſsing of an Ordinance for one <hi>Edward Andrews</hi> a Delinquent, part of whoſe perſonall eſtate, was ſeized and poſſeſſed by vertue of the ſaid Order, and in<g ref="char:EOLhyphen"/>juriouſly taken againe out of the ſaid Majors poſſeſsion, by colour of a compoſition at Gold<g ref="char:EOLhyphen"/>ſmiths Hall, to the diſhonour of the Houſe of Commons.</head>
+            <div type="part">
+               <head>Reaſons juſtifying the ſaid Order in generall.</head>
+               <p>
+                  <hi>IN primis,</hi> The ſaid Major <hi>Wither</hi> was one of the firſt in the Kingdome, who was damnified by the Kings Forces to any great value; the firſt Contributer to the Parliament in thoſe parts where he lived; the firſt who there took up Armes for it, as a Commander, and one who hath not only divers other wayes ſince this war, but all his life time alſo, manifeſted himſelfe, both in word, deed, and ſufferings, to be an Oppoſer of publike tyrannies, oppreſſions, and ſuperſtiti<g ref="char:EOLhyphen"/>ons, according to his faculties and his power, even to the hazarding of his life, and the loſſe of his eſtate at this preſent, as well as to the hindrance of his preferment heretofore.</p>
+               <p>Secondly, (though the contrarie be ſuggeſted by ſome envious or malignant perſons in Surrey) the ſaid Major can make it appeare, that his hindrances and loſſes, whoſe repaire was intended by the ſaid Order, were far greater than to the ſaid Houſe of Commons they were certified to be; and that ſuch as in the ſaid Countie of Surrey, were drawne by ſome in authoritie to ſweare the Negative, were abuſed, and made to perjure themſelves, in ſo doing.</p>
+               <p>Thirdly, the ſaid Order was fairly gotten, and deliberately granted, not only according to an Ordinance of the Parliament of England, but in purſuance alſo of a Declaration of both King<g ref="char:EOLhyphen"/>domes, wherein it is declared, that no man who hath been in eminent action, or ſuffered any nota<g ref="char:EOLhyphen"/>ble loſſe for the Publike, ſhould be neglected or ſleighted; but, one way or <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther, thankfully remem<g ref="char:EOLhyphen"/>bred, to his good and the honour of his poſteritie: The ſaid two Kingdomes thereby declared alſo, that the whole eſtates, reall and perſonall, moveables and inheritance, of ſuch who were perſo<g ref="char:EOLhyphen"/>nally excepted from pardon, and who having taken up Armes againſt the Parliament, ſhould not come in before a day ſet therefore, ſhould be forfeited for the paying of publike debts, eaſing common burthens, and repairing particular loſſes; and, as an eſtabliſhment of the ſaid Order is a making good of the ſaid Declaration, and of the Publike Faith thereby engaged; ſo the annihila<g ref="char:EOLhyphen"/>tion or fruſtrating of the ſame, before the ſaid Majors loſſes are fully repaired (without ſome other recompence) wil be a diſhonour to the Parliament, it not a violation of the faith of both Kingdoms.</p>
+               <p>Fourthly, if the ſaid Order ſhould be contemned, and made ineffectuall to the ſaid Major, as it hath lately been, it would much infringe the Liberties of the Houſe of Commons, and make their Orders contemptible, to the diſ-honour of the whole Commonaltie of England: For, it will bee conceived, that they either granted more, then they ought to have vouchſafed; or more, then they have power to maintaine; or more, then they have will to performe; or els, that they were not well adviſed what they granted; the leaſt of which being admitted, would bring contempt on that Honourable Houſe: and ſhould they give and take away, or not proſecute what they had given, few men would hereafter regard their Gifts or Orders.</p>
+               <p>Fifthly, the ſaid Order was granted at the beginning of this War, and when the favour thereby vouchſafed (for few ſuch Orders were afterwards obtained) was in probabilitie, that wel-affected men might be thereby incouraged to contribute their aſſiſtance the more cheerfully, and the more bountifully to the Parliament. And, if now, when their neceſſities are once ſupplied, and the pub<g ref="char:EOLhyphen"/>like ſecured (by thoſe willing-once, ſo far as their eſtates would extend, who bore the firſt brunt of the warre) the promiſes made them ſhould be forgotten, or the Orders granted for their reliefe rendered in valid, without any demerit or cauſe ſhowne; it will prove an injutie of dangerous conſequence, and loſe the State tentimes more, then that little which would be ſaved thereby could ever recompence; eſpecially when the wrong ſhall fall upon a man who is able to make his oppreſſions appeare to the world, and whoſe good affection to his Countrey is ſo well knowne to the whole Kingdome, as the ſaid Majors: and who can tell what extreame wants, joyned with unſufferable inju<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e and neglec<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, long complained of, without remedy or regard, may tempt him unto?</p>
+               <pb facs="tcp:104680:2" rendition="simple:additions"/>
+               <p> Sixthly, the ſaid Major ought in equitie to be repaired according to the ſaid Order, becauſe his thankfulneſſe for the ſame, and his confidence in the Publike Faith, made him neglect the execution of the ſaid Order, when it might have been moſt for his advantage, rather than he would deſert the publike ſervice for his private benefit, when the Common-wealth was in danger, although that neglect indangered the leaving of his children without meanes of breeding, and expoſed his wife and family to, extreme wants upon uncertaine hopes: for, on the continuance of his life all their maintenance then ſubſiſted. Beſides this, he hath forborne his owne pay ever ſince the begin<g ref="char:EOLhyphen"/>ning of this war; diſburſed to his Souldiers above five hundred pounds out of the remaines of his plundred eſtate, to keep them from diſ-banding; and paid all contributions and taxes to both Kingdomes, without repining, even out of that money which he borrowed, and payeth inte<g ref="char:EOLhyphen"/>reſt for, to maintaine his Family; becauſe he would not diſcourage others; and becauſe he thought too much to be adventured in this quarrell.</p>
+               <p>Seventhly, it appeares reaſonable, that the ſaid Order ſhould be made effectuall to the ſaid Major <hi>Wither,</hi> in regard he hath no way abuſed the favour vouchſafed, by acting greedily or rigorouſly; for, it will appeare upon examination; that hee executed the ſame moderately and modeſtly, with more ſenſe of compaſſion towards others, than of his owne neceſſities; never taking any thing by vertue of the ſaid Order, till extreme wants pinched him, or his: In ſo much, that (though malice and malignancie have ſuggeſted the contrarie) hee is yet ſo far from recovering any part of his principall damages ſuſtained by plunder (his hindrance conſidered in the loſſe of the intereſt thereof, out of which his ſubſiſtence ſhould ariſe) that hee is at this day worſe by ſome hundreds of pounds, than at his firſt plundring, though his yearly expences are far ſhort of what they for<g ref="char:EOLhyphen"/>merly were. And if his kind Creditours continue not their forbearance, he who was never hereto<g ref="char:EOLhyphen"/>fore ſo engaged, may be a priſoner to morrow, without adventuring into the Kings quarters; yea, and though they ſhould for ever forbeare him, his children will grow barbarous for want of means to educate them, and be expoſed to hunger and nakedreſſe; if his arreares be not ſpeedily paid, or if his faithfulneſſe, engagements, and ſufferings, be not better conſidered and recompenced (than they have hitherto been) by ſome other timely ſupply.</p>
+               <p>Eightly, whereas ſome have ſought to enervate the ſaid Order, by the Ordinance for Seque<g ref="char:EOLhyphen"/>ſtrations, becauſe it came forth after the ſaid Order was granted to Major <hi>Wither,</hi> and before it was fully executed, the ſaid Major having, by that means, received much detriment to the fruſtra<g ref="char:EOLhyphen"/>ting of the favour graciouſly intended to him by the Commons, humbly conceiveth it to bee rea<g ref="char:EOLhyphen"/>ſonable (the ſaid Order neither being unduly executed, nor expreſſely repealed, nor the juſt end ac<g ref="char:EOLhyphen"/>compliſhed, for which it was granted.) that it ſhould bee continued, effectuall to that end for which it was granted; eſpecially, when, by poſſeſſion or ſeizure, and equitable propertie or intereſt, in the goods or eſtate of a Delinquent, is transferred from the ſaid Delinquent, to one to whom the whole Parliament is ingaged: and perhaps, it would ill become the honourable Com<g ref="char:EOLhyphen"/>mons of England, to permit their own juſt grant, and favour to be eluded, for want of a circum<g ref="char:EOLhyphen"/>ſtantiall Proviſo in an Ordinance, wherein nothing was intended prejudiciall thereto.</p>
+               <p>Ninthly, the ſaid Order may be juſtified without damage to the Publike, becauſe, it the ſaid Ma<g ref="char:EOLhyphen"/>jor <hi>Wither</hi> hath, or ſhall tranſgreſſe in executing the ſame; there are Committees of Accompt for the whole Kingdome in generall, and for moſt Counties in particular, by whom his miſ-uſer there<g ref="char:EOLhyphen"/>of may be diſcovered; and there is at this preſent owing to the ſaid Major, from the State for his <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> due by Accompt made upon Debenters, with Orders for the payment therof, (beſides what is due for the quarters, and pay of his Souldiers) <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove three thouſand pounds, out of which the Common-wealth may be ſecured.</p>
+               <p>Laſtly, the gracious favour intended by the ſaid Order is the rather to be confirmed to the ſaid Major, becauſe, though he hath ſuffered many wants, moleſtations, and unjuſt affronts in the Par<g ref="char:EOLhyphen"/>liaments ſervice, he nevertheleſſe, continueth conſtant in his dependence thereon, and in his affe<g ref="char:EOLhyphen"/>ction thereto. And if the ſaid Order had been, or might be as advantagious to him, as they who envie that favour have ſuppoſed; yet, hee conceiveth it need, not be repented of, as an over large proportion of grace, conſidering how rich many other men are become by ſafe and eaſie employ<g ref="char:EOLhyphen"/>ments, who have neither contributed, nor acted, nor adventured, nor ſuffered any thing ſo conſi<g ref="char:EOLhyphen"/>derable (if any thing at all) for the common ſafetie. Moreover, the ſaid Major <hi>Wither,</hi> hath not lived heretofore, nor deſireth to live hereafter, to himſelfe only, upon that which hath been, or ſhall be reſtored unto him: For he hath ever ſince this war, ſpent his money and his time, accor<g ref="char:EOLhyphen"/>ding to his abilities and the occaſions offered, without any charge to the State, (except now and then a dinner) in ſerving diligently, and in diſcharging faith fully the Publike Truſt at his owne coſt in the Commiſſion of the Peace, and in almoſt all the Committees of Surrey ſince his militarie em<g ref="char:EOLhyphen"/>ployment
+<pb facs="tcp:104680:2"/>ceaſed; untill they who found him, unuſefull for their deſignes, cauſed him to be left out of ſome of thoſe Committees: yea, and ſince he and they who ſtood in the <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the firſt ſhock of tyranny, were juſtled out of employment, hee hath found <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and put himſelfe to coſt, in thoſe publike ſervices, which (perhaps) the next age will think conſidera<g ref="char:EOLhyphen"/>ble, though this doth not.</p>
+            </div>
+            <div type="part">
+               <head>Reaſons why the compoſition with Captain <hi>Edw. Andrewes</hi> at Goldſmiths Hall ſhould not be confirmed unto him by an Ordinance.</head>
+               <p>FIrſt, the ſaid compoſition was ſurreptitiouſly gotten, and before the nature of the ſaid <hi>
+                     <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> his Delinquencie, or the value of his eſtate was made known to the ſaid Committee, by which meanes the ſumme compounded for, was not a fourth part of the yearely values?</p>
+               <p>Secondly, it is probable that the ſaid <hi>Andrewes</hi> came not our of the Kings <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> purpoſe to compound: but, rather to betray Major <hi>Geo. Wither</hi> unto the Kings forces at Reading, or Baſing; for, there was a voluntarie confeſſion of ſuch a deſigne, confirmed on oath, by one who ſhould have aſſiſted therein; but Baſing being beleaguered, and Reading deſerted when <hi>Andrews</hi> came thither, he thought it (as it ſeems) his beſt courſe to pretend a ſubmiſſion. And that he did not at firſt really intend the ſame, appeareth by his promiſing to a Country <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his, whom he thought to be of his mind, that aſſoone as he had compounded for his eſtate in Surdie, and diſpo<g ref="char:EOLhyphen"/>ſed thereof, he would returne into the Kings Quarters, where his family and the reſt of his eſtate, then was.</p>
+               <p>Thirdly, becauſe the ſaid <hi>Andrewes</hi> not only raiſed a Company of Dragoons againſt the Parlia<g ref="char:EOLhyphen"/>ment voluntarily, and without Commiſſion (as is informed) but after the ſaid Dragoons were ta<g ref="char:EOLhyphen"/>ken by Sir <hi>William Waller,</hi> acted violently, alſo, againſt the well affected in Herefordſhire, and par<g ref="char:EOLhyphen"/>ticularly broke up and ranſaked the houſe of Sir <hi>Edw. Powel,</hi> in a felonious manner, without War<g ref="char:EOLhyphen"/>rant or Commiſſion, having onely one Ruſſian-like fellow in his Company, who with a drawne ſword put the houſe-keeper in fear of his life, as appeareth upon oath.</p>
+               <p>Fourthly, before the ſaid Compoſition was allowed or reported, the ſaid <hi>Andrews</hi> did by colour thereof, diſ-poſſeſſe the ſaid Major <hi>Wither</hi> of a Farme in Surrey, which being a part of the perſonall eſtate of the ſaid <hi>Andrewes,</hi> the ſaid Major had formerly by vertue of an Order of the Houſe of Commons ſeized, valued, &amp; poſſeſſed, for the Delinquencie of the ſaid <hi>Andrews,</hi> who had forfeited his eſtate therein by taking up armes againſt the Parliament, and by not returning to his obedience before the ſet Day, according to an Ordinance. In contempt of which Order, the ſaid Cap<g ref="char:EOLhyphen"/>tain <hi>Andrewes</hi> brought, or ſent to the ſaid Farme, ſouldiers and others about midnight, who, aſ<g ref="char:EOLhyphen"/>ſaulting the houſe with threatnings to kill thoſe that were within it, if they opened not the doore, ſhot three musket bullets againſt the ſaid doore, one of which bullets broke it open, and carried the lock thereof againſt the breaſt of the ſaid Majors ſervant, to the indangering of his life: and, he being all alone in the houſe, the Ryotours broke in upon him, demanding in a hoſtile manner, if he would have quarter, and ſeized upon the goods in the houſe belonging to the ſaid Major, which he keepeth from him euer ſince, with his corne, then growing upon the ground: and the ſaid Ma<g ref="char:EOLhyphen"/>jor hath waited now almoſt twelve moneths without remedy or hearing; which, conſidering how well the ſaid Major <hi>Wither,</hi> and how ill the ſaid <hi>Andrews</hi> hath deſerved of the State, renders his inſolencies (as is humbly conceived) too many and too great, to make him capable of an Ordinance for his Compoſition.</p>
+               <p>Fifthly, the ſaid <hi>Andrewes</hi> having before his time, and without order, forcibly and ryotouſly entred the Farme as aforeſaid, and unlawfully taken to himſelfe almoſt as much of the ſaid Major <hi>Withers</hi> own goods, as would diſcharge the value of his Delinquencie, did immediately alſo, and be<g ref="char:EOLhyphen"/>fore his compoſition was reported to the Houſe of Commons (or before hee had any poſſeſſion lawfully given unto him) fell downe the woods, and take the profits of the ſaid Farme, to a grea<g ref="char:EOLhyphen"/>ter value than his whole compoſition amounted unto, which makes it the more unreaſonable.</p>
+               <p>Sixthly, <hi>Andrewes</hi> his compoſition (at leaſt for that part of his perſonall eſtate, which was ſei<g ref="char:EOLhyphen"/>zed by Major <hi>Wither</hi>) ought not to be confirmed to the ſaid <hi>Andrewes</hi> by an Ordinance, becauſe the ſaid <hi>Andrewes</hi> not coming in before the time limited in the Ordinance of Grace; and the ſaid Major having poſſeſſed that part of the ſaid <hi>Andrewes</hi> eſtate, immediately after the ſaid, time limi<g ref="char:EOLhyphen"/>ted, and before the Ordinance of Sequeſtration came forth, (by no worſe authoritie than by an Order of the Houſe of Commons, grounded on a Declaration of both Kingdomes, for a juſt releefe of damages ſuſtained in the generall Cauſe) it would ſeeme verie unreaſoanble, that without cauſe or hearing, the ſaid Major ſhould be diſ-poſſeſſed thereof, and concluded againſt by an Ordinance of
+<pb facs="tcp:104680:3" rendition="simple:additions"/>Parliament, hee having petitioned and waited almoſt twelve months for the prevention thereof. And it will not be diſgracefull and injurious to the ſaid Major <hi>Wither</hi> only, if hee ſhould be thus af<g ref="char:EOLhyphen"/>fronted without remedy, but diſhonourable to the Houſe of Commons, that their Order ſhould be ſleighted, and their gift taken from their friend, and conferred on their enemy, who (as is re<g ref="char:EOLhyphen"/>ported) could not forbeare ſince his compoſition, to let fall words manifeſting a continuing diſ<g ref="char:EOLhyphen"/>affection to the State.</p>
+               <p>Laſtly, if the ſaid compoſition ſhould be confirmed to the ſaid <hi>Andrewes,</hi> for ſo ſmall a value, to the damage and diſparagement of the ſaid Major; the ſaid <hi>Andrewes</hi> having voluntarily armed himſelfe, and acted againſt the Parliament, ſo long as hee had power or repute in the Kings quar<g ref="char:EOLhyphen"/>ters: If after he hath (in probabilitie) done more ſpoyle, and committed more outrages than an hun<g ref="char:EOLhyphen"/>dred times his eſtate, and twice ſo many lives as his can make recompence for; yea, if he, who is rather miſcheevous than ſerviceable to us, now hee is come in, ſhall after hee hath murthered and robbed the Parliaments friends, be permitted (even during the war which hee hath fomented, and in our quarters) to enjoy his eſtate peaceably, to the deſpitefull diſpoſſeſſing of him, both of his habitation and maintenance, who hath, adventured his life, loſt his eſtate, and many other wayes continued an unwearied zeale to that Publike Safetie, which, ſuch Traytours as the ſaid <hi>Andrewes,</hi> hath ſought to deſtroy; it is feared the injurie will be more than can be well borne, and ſuch, as will redound not only to the diſhonour of the Houſe of Commons, but of the whole Parliament and Kingdome; for which the ſaid Major ſhould be veris ſorrie.</p>
+               <lg>
+                  <l>
+                     <hi>THus having reaſon'd; whether he</hi>
+                  </l>
+                  <l>
+                     <hi>An</hi> Independent <hi>ſeemes to be,</hi>
+                  </l>
+                  <l>
+                     <hi>Or</hi> Presbyterian-Friend;</l>
+                  <l>
+                     <hi>Let not the</hi> difference <hi>Wrong the</hi> Cauſe;</l>
+                  <l>
+                     <hi>For whilſt our</hi> Factions <hi>give us</hi> Lawes,</l>
+                  <l>
+                     <hi>Our plagues will never end.</hi>
+                  </l>
+                  <l>
+                     <hi>Where</hi> Truth <hi>and</hi> Love <hi>together ſide,</hi>
+                  </l>
+                  <l>
+                     <hi>Men will debate; <gap reason="illegible: blotted" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, not divide:</hi>
+                  </l>
+                  <l>
+                     <hi>But, where</hi> Selfe-ſeekings <hi>raigne:</hi>
+                  </l>
+                  <l>
+                     <hi>And, where</hi> Opinion <hi>ſway doth bears,</hi>
+                  </l>
+                  <l>
+                     <hi>Confuſions in their</hi> Counſels <hi>are,</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Reaſon <hi>ſpeaks in vaine.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>GEO. WITHER.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
